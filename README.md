@@ -1,5 +1,7 @@
-# New Project Architecture
+# new-project-architecture
 
-A general Agent Skill for designing a project's domain model, layers, module interfaces, dependency rules, and acceptance criteria before implementation.
+在编码前把新项目从模糊需求收敛为清晰、可验证的架构，明确领域模型、分层依赖、模块接口和验收标准，减少早期设计错误与后期返工。
 
-Use the skill as $new-project-architecture or let a compatible agent select it from the description.
+这是一个通用 Agent Skill，帮助在实现前理清领域模型、架构层次、模块接口、依赖方向和验收场景，降低早期设计偏差与后期返工。
+
+将此仓库安装到支持 Agent Skills 的工具中，即可在新项目启动时调用。
